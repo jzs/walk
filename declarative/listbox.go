@@ -12,7 +12,7 @@ import (
 
 import (
 	"github.com/jzs/walk"
-	"github.com/jzs/win"
+	"github.com/lxn/win"
 )
 
 type ListBox struct {

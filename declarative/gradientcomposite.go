@@ -8,7 +8,7 @@ package declarative
 
 import (
 	"github.com/jzs/walk"
-	"github.com/jzs/win"
+	"github.com/lxn/win"
 )
 
 type GradientComposite struct {
