@@ -16,7 +16,7 @@ import (
 	"log"
 	"strings"
 
-	"github.com/lxn/walk"
+	"github.com/jzs/walk"
 	"gopkg.in/Knetic/govaluate.v3"
 )
 
