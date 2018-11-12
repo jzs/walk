@@ -40,7 +40,7 @@ func NewMainWindowWithName(name string) (*MainWindow, error) {
 		mw,
 		nil,
 		mainWindowWindowClass,
-		win.WS_OVERLAPPEDWINDOW,
+		win.WS_POPUPWINDOW,
 		win.WS_EX_CONTROLPARENT); err != nil {
 
 		return nil, err
